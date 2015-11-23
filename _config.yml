@@ -24,8 +24,7 @@ linkedin: atalebagha
 stackoverflow: atalebagha   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus
 disqus: atalebagha
-google_analytics: UA-21834572
-
+google_analytics: UA-21834572-1
 
 # needed for travis-ci build
 exclude: [vendor]
